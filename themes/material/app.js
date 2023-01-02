@@ -67,7 +67,47 @@ function nav(path) {
 	html += `<div class="mdui-toolbar-spacer"></div>
     <a href="https://derhami.com" target="_blank" class="mdui-btn mdui-btn-icon mdui-ripple mdui-ripple-white" mdui-tooltip="{content: 'Derhami Drive'}">
       <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 36 36" enable-background="new 0 0 36 36" xml:space="preserve" class="mdui-icon" style="width: 24px;height:24px;">
-        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIEAAABZCAYAAAAZzUcSAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAGBJREFUeJztzkERwDAIALDe1RY6kIJcVCBgIvagj0RBzgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIDf7nZgU0REVVVm5sxMd/f2CQAAAAAAAAAAAACe8QFOgwtsMi5zegAAAABJRU5ErkJggg==" alt="" class="stl_04" />
+        <path id="Imported Path"
+        fill="none" stroke="black" stroke-width="1"
+        d="M 111.07,60.51
+           C 111.07,60.51 112.55,57.94 112.55,57.94
+             115.27,53.22 116.63,50.86 118.69,50.84
+             120.74,50.83 122.13,53.17 124.92,57.85
+             124.92,57.85 126.45,60.43 126.45,60.43
+             129.28,65.20 130.69,67.58 129.66,69.37
+             128.63,71.17 125.85,71.17 120.29,71.17
+             120.29,71.17 117.27,71.17 117.27,71.17
+             111.78,71.17 109.04,71.17 108.01,69.40
+             106.97,67.62 108.34,65.25 111.07,60.51 Z
+           M 3.41,60.51
+           C 3.41,60.51 4.89,57.94 4.89,57.94
+             7.61,53.22 8.97,50.86 11.03,50.84
+             13.08,50.83 14.47,53.17 17.26,57.85
+             17.26,57.85 18.79,60.43 18.79,60.43
+             21.62,65.20 23.03,67.58 22.00,69.37
+             20.97,71.17 18.19,71.17 12.63,71.17
+             12.63,71.17 9.61,71.17 9.61,71.17
+             4.12,71.17 1.38,71.17 0.35,69.40
+             -0.69,67.62 0.68,65.25 3.41,60.51 Z
+           M 23.55,0.00
+           C 23.55,0.00 34.38,0.00 34.38,0.00
+             36.40,0.00 37.41,0.00 38.24,0.48
+             39.08,0.96 39.58,1.83 40.58,3.58
+             40.58,3.58 59.04,35.61 59.04,35.61
+             61.71,40.24 63.05,42.56 65.08,42.59
+             67.11,42.62 68.52,40.35 71.34,35.81
+             71.34,35.81 91.44,3.38 91.44,3.38
+             92.46,1.73 92.98,0.90 93.79,0.45
+             94.60,0.00 95.58,0.00 97.53,0.00
+             97.53,0.00 106.86,0.00 106.86,0.00
+             112.36,0.00 115.11,0.00 116.14,1.78
+             117.17,3.56 115.80,5.93 113.05,10.67
+             113.05,10.67 71.25,82.85 71.25,82.85
+             68.48,87.62 67.10,90.00 65.03,90.00
+             62.96,90.00 61.59,87.61 58.84,82.83
+             58.84,82.83 17.34,10.65 17.34,10.65
+             14.62,5.91 13.26,3.55 14.29,1.77
+             15.32,0.00 18.07,0.00 23.55,0.00 Z" />
       </svg>
     </a>`;
 	$('#nav').html(html);
