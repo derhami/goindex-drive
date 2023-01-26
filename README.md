@@ -1,5 +1,3 @@
-![Go Drive](https://raw.githubusercontent.com/kulokenci/goindex-drive/master/go-drive-logo.png) 
-
 ## Source
 Origin https://github.com/donwa/goindex
 Dark Theme & Search https://github.com/ParveenBhadooOfficial/go-drive
