@@ -8,7 +8,6 @@ Dark Theme & Search https://github.com/ParveenBhadooOfficial/go-drive
 2. Auth and get the refresh_token and paste on line 8 or just copy the full code and paste in Cloudflare workers.
 3. Deploy the code to [Cloudflare Workers](https://www.cloudflare.com/workers)
 
-![Go Drive Dark Theme](https://raw.githubusercontent.com/kulokenci/goindex-drive/master/ss.jpg)  
 
 ## Use your own credentials and data
 * Open https://console.developers.google.com/apis/credentials
